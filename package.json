@@ -1,0 +1,17 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A weather web app which fetches the weather information of the city entered.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Weather",
+    "Web-app",
+    "Javascript",
+    "Javascript-projects"
+  ],
+  "author": "Aparajit Garg",
+  "license": "ISC"
+}
